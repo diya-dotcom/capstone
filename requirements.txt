@@ -7,3 +7,5 @@ click==8.2.1
 MarkupSafe==3.0.2
 boto3
 PyMySQL
+cryptography
+python-dotenv
